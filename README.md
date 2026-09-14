@@ -78,28 +78,8 @@ The Tableau dashboard includes:
 - Demographic analysis reveals differences in COVID-19 distribution across age groups and genders.
 - Testing and laboratory availability varied geographically, highlighting differences in healthcare infrastructure.
 
-## Project Structure
-
-```text
-COVID-19-India-Tableau-Dashboard/
-│
-├── Data/
-│   ├── COVID-19 Case Data
-│   ├── Vaccination Data
-│   ├── Testing Data
-│   └── Demographic Data
-│
-├── Spatial Data/
-│   └── Indian States Shapefile
-│
-├── Tableau/
-│   └── COVID-19 India Dashboard
-│
-├── Images/
-│   └── Dashboard screenshots
-│
-└── README.md
-```
+## Dashboard Screenshots
+<img width="998" height="561" alt="image" src="https://github.com/user-attachments/assets/2a5f0783-1ba4-47a4-89e7-175d902b5282" />
 
 ## Conclusion
 
